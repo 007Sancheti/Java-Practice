@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NonPrimitiveTypes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NonPrimitiveTypes_jar</output-path>
+    <root id="archive" name="NonPrimitiveTypes.jar">
+      <element id="module-output" name="NonPrimitiveTypes" />
+    </root>
+  </artifact>
+</component>
